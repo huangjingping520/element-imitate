@@ -1,0 +1,22 @@
+{
+  "name": "element-imitate",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "sass": "^1.52.1",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.23.1",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "eslint": "^8.16.0",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9",
+    "vue-tsc": "^0.34.7"
+  }
+}
