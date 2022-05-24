@@ -9,6 +9,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "async-validator": "^4.1.1",
+    "mitt": "^3.0.0",
     "sass": "^1.52.1",
     "vue": "^3.2.25"
   },
