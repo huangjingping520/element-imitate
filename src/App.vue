@@ -28,6 +28,19 @@
       <el-footer>Footer</el-footer>
     </el-container>
   </el-container>
+
+  <hr>
+
+  <el-button type="primary">
+    按钮
+  </el-button>
+  <el-button type="success">
+    按钮
+  </el-button>
+  <el-button>按钮</el-button>
+  <el-button size="small">
+    按钮
+  </el-button>
 </template>
 
 <style>
